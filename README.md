@@ -6,6 +6,8 @@
 
 The purpose of this project is to translate morse code into text displayed on the LCD. User input will be determined by the matrix keypad and the IR sensor. With every input the IR detects the buzzer will make a noise to sound like a telegraph. Keypads are there to give the user options to clear the LCD or display text.
 
+![Project](morse-code.PNG)
+
 ## Required Materials
 
 ---
