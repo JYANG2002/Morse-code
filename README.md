@@ -1,4 +1,4 @@
-# Joseph Yang CSE321 Project 3
+# Joseph Yang Morse Code Project
 
 ## Project Overiew
 
